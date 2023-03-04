@@ -1,0 +1,15 @@
+streamlit
+matplotlib>=3.2.2
+numpy
+opencv-python
+Pillow
+psutil  # system resources
+PyYAML
+requests
+scipy
+thop 
+torch>=1.7.0  
+torchvision>=0.8.1
+tqdm
+skia-python
+seaborn
